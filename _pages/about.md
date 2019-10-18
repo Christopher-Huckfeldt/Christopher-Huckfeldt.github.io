@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Department of Economics, Cornell University"
+title: "Christopher Huckfeldt"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
