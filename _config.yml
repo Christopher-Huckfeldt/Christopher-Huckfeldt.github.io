@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christopher Huckfeldt / Department of Economics, Cornell University"
+title                    : "Christopher Huckfeldt"
 title_separator          : "-"
 name                     : &name "Christopher Huckfeldt"
 description              : &description "Assistant professor, Cornell University Department of Economics"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Christopher Huckfeldt"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Assistant professor"
+  location         : "Ithaca, NY"
+  employer         : "Department of Economics, Cornel University"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
