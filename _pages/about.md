@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 ---
-
-
-I am an assistant professor in the Department of Economics at 
-Cornell University. I received a Ph.D. in economics at NYU under 
+I am an Assistant Professor in the Department of Economics at 
+[Cornell University](http://economics.cornell.edu). I received a Ph.D. in economics at NYU under 
 the supervision of Gianluca Violante and Mark Gertler in May 2014.
 
-My research interest are in macroeconomics and labor economics.
+My research interests are in macroeconomics and labor economics.
 
