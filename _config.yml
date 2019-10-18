@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Christopher Huckfeldt"
   avatar           : "profile.png"
-  bio              : "Assistant professor, Department of Economics"
-  location         : # "Ithaca, NY"
-  employer         : "Cornell University"
+  bio              : "Assistant Professor, Department of Economics, Cornell University"
+  location         : "Ithaca, NY"
+  employer         : #"Cornell University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sUlIaKsAAAAJ&hl=en"
   email            :
