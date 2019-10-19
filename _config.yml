@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "       "
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Christopher Huckfeldt"
 description              : &description "Assistant professor, Cornell University Department of Economics"
