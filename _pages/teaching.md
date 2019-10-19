@@ -9,7 +9,25 @@ author_profile: true
 **Fall 2019**  
 ECON 7440, Macro Labor   
 
-**Spring 2020**   
-ECON 6140, Macro II   
-ECON 3040, Intermediate Macro
+## Previous semesters
+**Spring 2019**   
+ECON 6140, Macro II     
+
+**Fall 2018**
+ECON 3040, Intermediate Macro   
+ECON 7440, Macro Labor   
+
+**Spring 2018**   
+ECON 6140, Macro II  
+
+**Fall 2017**   
+ECON 3040, Intermediate Macro   
+ECON 7440, Macro Labor   
+
+**Spring 2017**   
+ECON 3040, Intermediate Macro   
+
+
+
+
 
