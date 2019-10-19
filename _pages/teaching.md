@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 ---
-## Current semester (**Fall 2019**)  
+## Current semester  
+**Fall 2019**  
 ECON 7440, Macro Labor   
 
 **Spring 2020**   
