@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Current semester  
 **Spring 2020**  
-ECON 3040, Intermediate Macro   
+ECON 3040, Intermediate Macro    
 ECON 6140, Macro II     
 
 ## Previous semesters
