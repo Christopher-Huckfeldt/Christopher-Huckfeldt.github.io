@@ -21,4 +21,4 @@ huckfeldt [_at_] cornell [_dot_] edu
 (607) 255-0090
 
 **Office hours**<br />
-Monday, 2:30pm-3:30pm and 4:30pm-5:30pm
+By appointment.
