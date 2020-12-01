@@ -21,4 +21,4 @@ Revise and resubmit, _The American Economic Review_
 ## Work-in-progress
 
 <br/>**A Model of Temporary versus Permanent Layoffs Over the Business Cycle:
-With an Application to the COVID-19 Recession** [[slides]](https://christopher-huckfeldt.github.io/files/GHT2-slides.pdf)<br/>
+With an Application to the COVID-19 Recession** (with Mark Gertler and Antonella Trigari) [[slides]](https://christopher-huckfeldt.github.io/files/GHT2-slides.pdf)<br/>
