@@ -17,3 +17,8 @@ _The Review of Economic Studies_, 2020. (See also [NBER WP22341](https://www.nbe
 <br/>**Understanding the Scarring Effect of Recessions** [[pdf]](https://christopher-huckfeldt.github.io/files/UTSEOR.pdf)<br/>
 Revise and resubmit, _The American Economic Review_
 > This paper documents that the earnings cost of job loss is concentrated among workers who find reemployment in lower-paying occupations, and that the incidence of such occupation displacement is higher for workers who lose their job during a recession. I propose a model where hiring is endogenously more selective during recessions, forcing some unemployed workers to search for lower-skill jobs. In accounting for the cost and cyclical incidence of occupation displacement, the model accounts for existing estimates of the present value cost of job loss during expansions and recessions, and the cost of entering the labor market during a recession.
+
+## Work-in-progress
+
+<br/>**A Model of Temporary versus Permanent Layoffs Over the Business Cycle:
+With an Application to the COVID-19 Recession** [[slides]](https://christopher-huckfeldt.github.io/files/GHT2-slides.pdf)<br/>
