@@ -6,10 +6,13 @@ author_profile: true
 ---
 ---
 ## Current semester  
-**Spring 2021**  
-ECON 6140, Macro II     
+**Fall 2021**  
+ECON 3040, Intermediate Macro  
 
 ## Previous semesters
+**Spring 2021**  
+ECON 6140, Macro II      
+
 **Fall 2020**  
 ECON 3040, Intermediate Macro  
 ECON 7440, Macro Labor   
@@ -45,7 +48,6 @@ ECON 7440, Macro Labor
 ECON 3040, Intermediate Macro  
 
 **Fall 2015**  
-ECON 7330, Heterogeneous Agent Models  
 ECON 7440, Macro Labor  
 
 **Spring 2015**    
