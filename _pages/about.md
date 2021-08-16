@@ -14,5 +14,5 @@ the supervision of Gianluca Violante and Mark Gertler in May 2014.
 
 My research interests are in macroeconomics and labor economics.
 
-Please feel welcome to read my [research statement](https://christopher-huckfeldt.github.io/files/Huckfeldt_ResearchStatement) or my [teaching statement.](https://christopher-huckfeldt.github.io/files/Huckfeldt_TeachingStatement) 
+Please feel welcome to read my [research statement](https://christopher-huckfeldt.github.io/files/Huckfeldt_ResearchStatement.pdf) or my [teaching statement](https://christopher-huckfeldt.github.io/files/Huckfeldt_TeachingStatement.pdf).
 
