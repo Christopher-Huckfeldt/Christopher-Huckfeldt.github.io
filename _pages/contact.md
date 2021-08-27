@@ -23,5 +23,5 @@ ckh55 [_at_] cornell [_dot_] edu
 **Office hours**<br />
 Tu, 4:20pm-5:20pm, in-person or on Zoom. Book a slot [here](https://christopher-huckfeldt.github.io/).   
 
-**Office hours for ECON 3040**<br />  
+**Office hours for ECON 3040**<br />
 Tu, 1:15pm-2:15pm, Zoom (link on Canvas site)  
