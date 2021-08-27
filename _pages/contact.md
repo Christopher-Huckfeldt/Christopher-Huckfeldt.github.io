@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 **Office**<br />
-Uris Hall 444
+Uris Hall 464
 
 **Mailing address**  
 Department of Economics<br />
@@ -15,10 +15,12 @@ Cornell University<br />
 Ithaca, NY 14853
 
 **Email address**<br />
-huckfeldt [_at_] cornell [_dot_] edu 
+ckh55 [_at_] cornell [_dot_] edu 
 
 **Phone**<br />
 (607) 255-0090
 
 **Office hours**<br />
-By appointment.
+For students in ECON 3040: Tu, 1:15pm-2:15pm, Zoom  
+General office hours: Tu, 4:20pm-5:20pm, in-person or on zoom. Book 
+a slot [here](https://christopher-huckfeldt.github.io/).
