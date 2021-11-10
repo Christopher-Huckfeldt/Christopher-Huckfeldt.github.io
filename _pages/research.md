@@ -7,8 +7,9 @@ author_profile: true
 ---
 ## Working Papers
 
-<br/>**A Model of Temporary versus Permanent Layoffs over the Business Cycle: with an Application to the Covid-19 Crisis** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2021.pdf)<br/>
-> Motivated by the unusual increase in temporary unemployment during the recent recession, this paper develops a quantitative model of unemployment dynamics that distinguishes between temporary and permanent layoffs. We calibrate the model to capture labor market dynamics over the period from 1979 to 2019. We then adapt the full quantitative model to study the effects of the extraordinary increase in temporary layoffs induced by the pandemic. We also use the model to evaluate how the Paycheck Protection Program may have worked to facilitate the return of workers from temporary layoff. We find that, without PPP, unemployment would have been persistently higher: Firms would have recalled far fewer workers from temporary unemployment, and more workers on temporary layoff would have drifted to permanent unemployment.
+<br/>**Temporary and Permanent Layoffs over the Business Cycle: Evidence, Theory, and an Application to the Covid-19 Crisis** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2021.pdf)<br/>
+> Motivated by the unusual increase in temporary unemployment during the recent recession, this paper develops a quantitative model of unemployment dynamics that distinguishes between temporary and permanent layoffs. We calibrate the model to capture labor market dynamics over the period from 1979 to 2019. We then adapt the full quantitative model to study the effects of the extraordinary increase in temporary layoffs induced by the pandemic.  We also use the model to evaluate how the Paycheck Protection Program may have worked to facilitate the return of workers to employment from temporary layoff. We find that, without PPP, unemployment would have been persistently higher: Firms would have recalled far fewer workers from temporary layoff, and more workers on temporary layoff would have drifted into more persistent unemployment.
+
 
 
 ## Publications
