@@ -26,8 +26,8 @@ _Review of Economic Studies_, 2020. (See also [NBER WP22341](https://www.nber.or
 
 ## Work in progress
 
-<br/>**Active and Passive Search Efficiency over the Business Cycle**<br/>
-> Non-employed workers engaged in some form of active search are more likely to find a job than workers engaged in purely-passive search, implying a positive relative return to active search in the probability of finding a job. This paper shows that the relative return to active search falls during a recession. Such a finding poses a challenge to most existing models of search, as the relative return to active search is generally assumed to be stable over the business cycle. I propose a minimally-modified theory of search where workers find jobs through a combination of active and passive methods. Estimates of the model indicate that active and passive search are complements; and thus, that the marginal efficiency of active search declines during a recession. The results imply that a UI expansion will have an lower overall impact on unemployment durations if enacted during a recession. 
+<br/>**The marginal efficiency of active search**<br/>
+> The marginal efficiency of active search is the rate at which active search increases overall search efficiency (and thus the probability of finding a job). This paper documents that job-finding probabilities of active searchers fall closer to those of purely-passive searchers during recessions, despite the well-documented countercyclicality of active search effort. The finding rules out the constant marginal efficiency of active search typically assumed in the literature, whereby the elasticity of substitution between active and passive search is infinite; instead, the data support an elasticity of substitution substantially below one. I show that an elasticity below unity introduces a novel search externality into an otherwise standard DMP setting: inefficiently high active search reduces the marginal efficiency of active search during recessions, further increasing unemployment.
 
 
 
