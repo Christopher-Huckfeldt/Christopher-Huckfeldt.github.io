@@ -20,9 +20,9 @@ author_profile: true
 
 ## Publications
 
-<br/>**Understanding the Scarring Effect of Recessions** [[pdf]](https://christopher-huckfeldt.github.io/files/UTSEOR.pdf) [[Supplementary Appendix](https://christopher-huckfeldt.github.io/files/UTSEORapp.pdf)] <br/> 
+<br/>**Understanding the Scarring Effect of Recessions** [[pdf]](https://www.aeaweb.org/articles?id=10.1257/aer.20160449) [[Supplementary Appendix](https://christopher-huckfeldt.github.io/files/UTSEORapp.pdf)] <br/> 
 _American Economic Review_, 2022.     
-(See also [[Aug. 2021 version]](https://christopher-huckfeldt.github.io/files/UTSEOR2021Aug.pdf), [[2016 version]](https://christopher-huckfeldt.github.io/files/UTSEOR2016.pdf))
+(See also [[Nov. 2021 version]](https://christopher-huckfeldt.github.io/files/UTSEOR.pdf), [[Aug. 2021 version]](https://christopher-huckfeldt.github.io/files/UTSEOR2021Aug.pdf), [[2016 version]](https://christopher-huckfeldt.github.io/files/UTSEOR2016.pdf))
 > This paper documents that the earnings cost of job loss is concentrated among workers who find reemployment in lower-skill occupations, and that the cost and incidence of such occupation displacement is higher for workers who lose their job during a recession. I propose a model where hiring is endogenously more selective during recessions, leading some unemployed workers to optimally search for reemployment in lower-skill jobs. The model accounts for existing estimates of the size and cyclicality of the present value cost of job loss, and the cost of entering the labor market during a recession.
 
 <br/>**Unemployment Fluctuations, Match Quality, and the Wage Cyclicality of New Hires** (with Mark Gertler and Antonella Trigari) [[pdf](https://doi.org/10.1093/restud/rdaa004)] [[Supplementary Appendix](https://christopher-huckfeldt.github.io/files/GHT2019App.pdf)] [[wp](https://christopher-huckfeldt.github.io/files/GHT2019.pdf)]<br/>
