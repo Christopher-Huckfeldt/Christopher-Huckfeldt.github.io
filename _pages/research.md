@@ -5,29 +5,29 @@ permalink: /research/
 author_profile: true
 ---
 ---
+
+## Working Papers
+
+<br/>**Temporary Layoffs, Loss-of-Recall, and the Cyclical Unemployment Dynamics** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2021.pdf)<br/>
+> We revisit the role of temporary layoffs in the business cycle, motivated by their unprecedented surge during the pandemic recession. We first measure the contribution of temporary layoffs to unemployment dynamics over the period 1979 to the present. While many have emphasized a stabilizing effect due to recall hiring, we quantify an important destabilizing effect due to ``loss-of-recall'', whereby workers in temporary-layoff unemployment lose their job permanently and do so at higher rates in recessions. We then develop a quantitative model that allows for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures well pre-pandemic unemployment dynamics and shows how loss-of-recall enhances the recessionary contribution of temporary layoffs.  We also show that with some modification the model can capture the pandemic recession. We then use our structural model to show that the Paycheck Protection program generated significant employment gains. It did so in part by significantly reducing loss-of-recall.  
+
+
+## Work-in-progress
+
+<br/>**The Marginal Efficiency of Active Search** [[slides]](https://christopher-huckfeldt.github.io/files/TMEOAS.pdf)<br/>  
+> Search-theoretic models of the labor market typically impose that active and passive search enter a matching function as perfect substitutes, implying that the marginal efficiencies of active and passive search are constant. I study a DMP model with intensive and extensive margins of active search and formulate a testable restriction of this assumption. The restriction is rejected in the data. Instead, the data indicate that the marginal efficiency of active search declines during recessions. These findings help rationalize estimates from the existing literature indicating a modest response of unemployment to expansions of unemployment insurance during expansions.  
+
+
 ## Publications
 
-<br/>**Understanding the Scarring Effect of Recessions.** November 2021. [[pdf]](https://christopher-huckfeldt.github.io/files/UTSEOR.pdf) [[Supplementary Appendix](https://christopher-huckfeldt.github.io/files/UTSEORapp.pdf)] <br/> 
-_American Economic Review_, Forthcoming.     
+<br/>**Understanding the Scarring Effect of Recessions** [[pdf]](https://christopher-huckfeldt.github.io/files/UTSEOR.pdf) [[Supplementary Appendix](https://christopher-huckfeldt.github.io/files/UTSEORapp.pdf)] <br/> 
+_American Economic Review_, 2022.     
 (See also [[Aug. 2021 version]](https://christopher-huckfeldt.github.io/files/UTSEOR2021Aug.pdf), [[2016 version]](https://christopher-huckfeldt.github.io/files/UTSEOR2016.pdf))
 > This paper documents that the earnings cost of job loss is concentrated among workers who find reemployment in lower-skill occupations, and that the cost and incidence of such occupation displacement is higher for workers who lose their job during a recession. I propose a model where hiring is endogenously more selective during recessions, leading some unemployed workers to optimally search for reemployment in lower-skill jobs. The model accounts for existing estimates of the size and cyclicality of the present value cost of job loss, and the cost of entering the labor market during a recession.
 
 <br/>**Unemployment Fluctuations, Match Quality, and the Wage Cyclicality of New Hires** (with Mark Gertler and Antonella Trigari) [[pdf](https://doi.org/10.1093/restud/rdaa004)] [[Supplementary Appendix](https://christopher-huckfeldt.github.io/files/GHT2019App.pdf)] [[wp](https://christopher-huckfeldt.github.io/files/GHT2019.pdf)]<br/>
 _Review of Economic Studies_, 2020. (See also [NBER WP22341](https://www.nber.org/papers/w22341))
 > We revisit the issue of the high cyclicality of wages of new hires.  We show that after controlling for composition effects likely involving procyclical upgrading of job match quality, the wages of new hires are no more cyclical than those of existing workers. The key implication is that the sluggish behavior of wages for existing workers is a better guide to the cyclicality of the marginal cost of labor than is the high measured cyclicality of new hires wages unadjusted for composition effects. Key to our identification is distinguishing between new hires from unemployment versus those who are job changers. We argue that to a reasonable approximation, the wages of the former provide a composition-free estimate of the wage flexibility, while the same is not true for the latter. We then develop a quantitative general equilibrium model with sticky wages via staggered contracting, on-the-job search, and heterogeneous match quality, and show that it can account for both the panel data evidence and aggregate evidence on labor market volatility.
-
-
-## Working Papers
-
-<br/>**Temporary and Permanent Layoffs over the Business Cycle: Evidence, Theory, and an Application to the Covid-19 Crisis** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2021.pdf)<br/>
-> Motivated by the unusual increase in temporary unemployment during the recent recession, this paper develops a quantitative model of unemployment dynamics that distinguishes between temporary and permanent layoffs. We calibrate the model to capture labor market dynamics over the period from 1979 to 2019. We then adapt the full quantitative model to study the effects of the extraordinary increase in temporary layoffs induced by the pandemic.  We also use the model to evaluate how the Paycheck Protection Program may have worked to facilitate the return of workers to employment from temporary layoff. We find that, without PPP, unemployment would have been persistently higher: Firms would have recalled far fewer workers from temporary layoff, and more workers on temporary layoff would have drifted into more persistent unemployment.
-
-
-
-## Work in progress
-
-<br/>**The marginal efficiency of active search**<br/>
-> This paper studies the extensive and intensive margins of active search among non-employed workers. I derive a restriction from existing theory: the ratio of job-finding probabilities of active to purely-passive search has a unit elasticity in the average active search effort of active searchers. The restriction is rejected by the data: the ratio of job-finding probabilities is procyclical, whereas active search effort is countercyclical. I show that theory can match the data if active search is taken to be a strategic substitute, where the marginal efficiency of active search declines with aggregate active search, thus falling during a recession. I apply my findings towards understanding estimates from the empirical literature documenting that unemployment increases only modestly in response to large expansions of unemployment insurance during recessions.
 
 
 

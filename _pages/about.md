@@ -12,7 +12,10 @@ I am an Assistant Professor in the Department of Economics at
 [Cornell University](http://economics.cornell.edu). I received a Ph.D. in Economics from NYU under 
 the supervision of Gianluca Violante and Mark Gertler in May 2014.
 
+Starting in July 2022, I will be a senior economist at the Division 
+of International Finance at the Federal Reserve Board of Governors.
+
 My research interests are in macroeconomics and labor economics.
 
-Please feel welcome to read my [research statement](https://christopher-huckfeldt.github.io/files/Huckfeldt_ResearchStatement.pdf) or my [teaching statement](https://christopher-huckfeldt.github.io/files/Huckfeldt_TeachingStatement.pdf).
+
 
