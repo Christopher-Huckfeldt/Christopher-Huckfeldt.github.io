@@ -9,7 +9,7 @@ author_profile: true
 ## Working Papers
 
 <br/>**Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2022.pdf)<br/>
-> We revisit the role of temporary layoffs in the business cycle. While many have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall”, whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the recessionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection program generated significant employment gains, in part by significantly reducing loss-of-recall.  
+> We revisit the role of temporary layoffs in the business cycle. While many have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall”, whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the recessionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection program generated sizable employment gains, in part by significantly reducing loss-of-recall.  
 
 
 ## Work-in-progress
