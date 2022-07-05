@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 ---
-I am an Assistant Professor in the Department of Economics at 
-[Cornell University](http://economics.cornell.edu). I received a Ph.D. in Economics from NYU under 
-the supervision of Gianluca Violante and Mark Gertler in May 2014.
 
-Starting in July 2022, I will be a senior economist at the Division 
-of International Finance at the Federal Reserve Board.
+I am a senior economist at the Board of Governors of the Federal Reserve, in the [Global Modeling Studies](https://www.federalreserve.gov/econres/ifgms-staff.htm) section of the Division of International Finance. Previously, I was an Assistant Professor in the Department of Economics at Cornell University. I received a Ph.D. in Economics from NYU under the supervision of Gianluca Violante and Mark Gertler in May 2014.
 
-My research interests are in macroeconomics and labor economics.
+My research interests are in macroeconomics and labor economics.  
 
 
 

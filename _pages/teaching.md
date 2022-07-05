@@ -6,10 +6,14 @@ author_profile: true
 ---
 ---
 ## Current semester  
+
+## Previous semesters
+**Spring 2022**  
+ECON 6140, Macro II      
+
 **Fall 2021**  
 ECON 3040, Intermediate Macro  
 
-## Previous semesters
 **Spring 2021**  
 ECON 6140, Macro II      
 
