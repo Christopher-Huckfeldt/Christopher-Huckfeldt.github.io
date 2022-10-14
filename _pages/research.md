@@ -15,8 +15,7 @@ author_profile: true
 ## Work-in-progress
 
 <br/>**The Marginal Efficiency of Active Search** [[slides]](https://christopher-huckfeldt.github.io/files/TMEOAS.pdf)<br/>  
-> Search-theoretic models of the labor market typically impose that active and passive search enter a matching function as perfect substitutes, implying that the marginal efficiencies of active and passive search are constant. I study a DMP model with intensive and extensive margins of active search and formulate a testable restriction of this assumption. The restriction is rejected in the data. Instead, the data indicate that the marginal efficiency of active search declines during recessions. These findings help rationalize estimates from the existing literature indicating a modest response of unemployment to expansions of unemployment insurance during expansions.  
-
+> During recessions, a larger fraction of non-employed workers actively search for a job. Simultaneously, the ratio of job-finding probabilities of such workers relative to passive searchers declines. I document these findings and show that they are symptomatic of a form of "crowding-out" of active search that has thus far gone unrecognized in the literature. I estimate a declining marginal efficiency of active search, and I show that, during a recession, active search plays a lesser role for finding a job. The findings emphasize the importance of the participation margin in understanding unemployment dynamics and the effects of policy.
 
 ## Publications
 
