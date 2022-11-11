@@ -13,5 +13,5 @@ I am a senior economist at the Federal Reserve Board, in the [Global Modeling St
 
 My research interests are in macroeconomics and labor economics.  
 
-
+The views expressed on this site are my own and should not be interpreted as reflecting the views of the Board of Governors of the Federal Reserve System or any other person associated with the Federal Reserve System.
 
