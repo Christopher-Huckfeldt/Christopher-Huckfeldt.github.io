@@ -13,7 +13,7 @@ Revise and resubmit at _American Economic Review_
 > We revisit the role of temporary layoffs in the business cycle. While many have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall”, whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the recessionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection program generated sizable employment gains, in part by significantly reducing loss-of-recall.  
 
 
-## Work-in-progress
+## Work in progress
 
 <br/>**The Marginal Efficiency of Active Search** [[slides]](https://christopher-huckfeldt.github.io/files/TMEOAS.pdf)<br/>  
 > During recessions, a larger fraction of non-employed workers actively search for a job. Simultaneously, the ratio of job-finding probabilities of such workers relative to passive searchers declines. I document these findings and show that they are symptomatic of a form of "crowding-out" of active search that has thus far gone unrecognized in the literature. I estimate a declining marginal efficiency of active search, and I show that, during a recession, active search plays a lesser role for finding a job. The findings emphasize the importance of the participation margin in understanding unemployment dynamics and the effects of policy.
