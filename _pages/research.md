@@ -20,7 +20,7 @@ Revise and resubmit, _American Economic Review_
 
 ## Publications
 
-<br/>**Understanding the Scarring Effect of Recessions** [[pdf]](https://www.aeaweb.org/articles?id=10.1257/aer.20160449) [[Supplementary Appendix](https://christopher-huckfeldt.github.io/files/UTSEORapp.pdf)]  [[wp](https://christopher-huckfeldt.github.io/files/UTSEOR.pdf)] (See also [Aug. 2021 version](https://christopher-huckfeldt.github.io/files/UTSEOR2021Aug.pdf), [2016 version](https://christopher-huckfeldt.github.io/files/UTSEOR2016.pdf)) <br/> 
+<br/>**Understanding the Scarring Effect of Recessions** [[pdf]](https://www.aeaweb.org/articles?id=10.1257/aer.20160449) [[Supplementary Appendix](https://christopher-huckfeldt.github.io/files/UTSEORapp.pdf)]  [[wp](https://christopher-huckfeldt.github.io/files/UTSEOR.pdf)] (See also [Aug 2021 version](https://christopher-huckfeldt.github.io/files/UTSEOR2021Aug.pdf), [Mar 2016 version](https://christopher-huckfeldt.github.io/files/UTSEOR2016.pdf)) <br/> 
 _American Economic Review_, 2022.     
 
 > This paper documents that the earnings cost of job loss is concentrated among workers who find reemployment in lower-skill occupations, and that the cost and incidence of such occupation displacement is higher for workers who lose their job during a recession. I propose a model where hiring is endogenously more selective during recessions, leading some unemployed workers to optimally search for reemployment in lower-skill jobs. The model accounts for existing estimates of the size and cyclicality of the present value cost of job loss, and the cost of entering the labor market during a recession.
