@@ -15,8 +15,12 @@ Revise and resubmit, _American Economic Review_
 
 ## Work in progress
 
-<br/>**The Marginal Efficiency of Active Search** [[slides]](https://christopher-huckfeldt.github.io/files/TMEOAS.pdf)<br/>  
-> During recessions, a larger fraction of non-employed workers actively search for a job. Simultaneously, the ratio of job-finding probabilities of such workers relative to passive searchers declines. I document these findings and show that they are symptomatic of a form of "crowding-out" of active search that has thus far gone unrecognized in the literature. I estimate a declining marginal efficiency of active search, and I show that, during a recession, active search plays a lesser role for finding a job. The findings emphasize the importance of the participation margin in understanding unemployment dynamics and the effects of policy.
+<br/>**The Marginal Efficiency of Active Search** [[draft available on request]]()<br/>  
+> During recessions, a greater fraction of non-employed workers who want work actively search for a job. Simultaneously, the job-finding probabilities of such non-employed active searchers converge to those of the non-employed who want a job but are not engaged in any form of active search. I document these findings and show that they are symptomatic of a form of “crowding-out” of active search that has thus far gone unrecognized in the literature. I estimate a declining marginal efficiency of active search, and I establish that active search plays a less important role for finding a job during a recession.
+
+<br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[draft available on request]]()<br/>  
+> Monetary policy is conventionally understood to affect labor demand but not labor supply. In this paper, we document a quantitatively important labor supply response to monetary policy shocks, identified using high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches. We express labor market stocks (e.g., unemployment) as a function of initial conditions and labor market flows, and then identify flows associated with “demand” vs. “supply” responses. We find that labor supply flows significantly increase in response to a contractionary monetary policy shock. Without this labor supply response, the overall procyclical response of employment to monetary policy would be almost twice as large.
+ 
 
 ## Publications
 
