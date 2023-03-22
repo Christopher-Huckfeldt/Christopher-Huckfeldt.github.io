@@ -8,12 +8,12 @@ author_profile: true
 
 ## Working Papers
 
-<br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[pdf]](https://christopher-huckfeldt.github.io/files/GHS2023.pdf)<br/>  
-> Monetary policy is conventionally understood to influence labor demand, with little effect on labor supply. Using high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches, we find that contractionary monetary policy shocks lead to a significant increase in labor supply by reducing the rate at which workers quit jobs to non-employment and stimulating job-seeking behavior among the non-employed. Holding the response of supply-driven labor market flows fixed, the overall procyclical response of employment to monetary policy becomes nearly twice as large.
-
 <br/>**Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2022.pdf) See also [NBER WP30134](https://www.nber.org/papers/w30134), and [non-technical summary](https://www.nber.org/digest/202210/temporary-layoffs-and-dynamics-cyclical-unemployment) in the NBER Digest.<br/>
 Revise and resubmit, _American Economic Review_
 > We revisit the role of temporary layoffs in the business cycle. While many have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall”, whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the recessionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection program generated sizable employment gains, in part by significantly reducing loss-of-recall.  
+
+<br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[pdf]](https://christopher-huckfeldt.github.io/files/GHS2023.pdf)<br/>  
+> Monetary policy is conventionally understood to influence labor demand, with little effect on labor supply. Using high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches, we find that contractionary monetary policy shocks lead to a significant increase in labor supply by reducing the rate at which workers quit jobs to non-employment and stimulating job-seeking behavior among the non-employed. Holding the response of supply-driven labor market flows fixed, the overall procyclical response of employment to monetary policy becomes nearly twice as large.
 
 
 ## Work in progress
