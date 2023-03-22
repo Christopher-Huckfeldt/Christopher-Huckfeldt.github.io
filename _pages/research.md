@@ -8,6 +8,9 @@ author_profile: true
 
 ## Working Papers
 
+<br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[pdf]](https://christopher-huckfeldt.github.io/files/GHS2023.pdf)<br/>  
+> Monetary policy is conventionally understood to influence labor demand, with little effect on labor supply. Using high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches, we find that contractionary monetary policy shocks lead to a significant increase in labor supply by reducing the rate at which workers quit jobs to non-employment and stimulating job-seeking behavior among the non-employed. Holding the response of supply-driven labor market flows fixed, the overall procyclical response of employment to monetary policy becomes nearly twice as large.
+
 <br/>**Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2022.pdf) See also [NBER WP30134](https://www.nber.org/papers/w30134), and [non-technical summary](https://www.nber.org/digest/202210/temporary-layoffs-and-dynamics-cyclical-unemployment) in the NBER Digest.<br/>
 Revise and resubmit, _American Economic Review_
 > We revisit the role of temporary layoffs in the business cycle. While many have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall”, whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the recessionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection program generated sizable employment gains, in part by significantly reducing loss-of-recall.  
@@ -15,11 +18,8 @@ Revise and resubmit, _American Economic Review_
 
 ## Work in progress
 
-<br/>**The Marginal Efficiency of Active Search** [[draft available on request]]()<br/>  
+<br/>**The Marginal Efficiency of Active Search** _Draft available upon request_<br/>  
 > During recessions, a greater fraction of non-employed workers who want work actively search for a job. Simultaneously, the job-finding probabilities of such non-employed active searchers converge to those of the non-employed who want a job but are not engaged in any form of active search. I document these findings and show that they are symptomatic of a form of “crowding-out” of active search that has thus far gone unrecognized in the literature. I estimate a declining marginal efficiency of active search, and I establish that active search plays a less important role for finding a job during a recession.
-
-<br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[draft available on request]]()<br/>  
-> Monetary policy is conventionally understood to affect labor demand but not labor supply. In this paper, we document a quantitatively important labor supply response to monetary policy shocks, identified using high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches. We express labor market stocks (e.g., unemployment) as a function of initial conditions and labor market flows, and then identify flows associated with “demand” vs. “supply” responses. We find that labor supply flows significantly increase in response to a contractionary monetary policy shock. Without this labor supply response, the overall procyclical response of employment to monetary policy would be almost twice as large.
  
 
 ## Publications
