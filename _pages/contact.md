@@ -13,5 +13,5 @@ Board of Governors of the Federal Reserve System <br />
 Washington, DC 22051
 
 **Email address**<br />
-chris [_dot_] huckfeldt [_at_] frb [_dot_] gov 
+chris [_dot_] huckfeldt [_dot_] econ [_at_] gmail [_dot_] com 
 
