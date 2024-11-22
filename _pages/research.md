@@ -21,7 +21,7 @@ Latest draft: October 2024 <br/>
 
 ## Work in progress
 
-<br/>**The Marginal Efficiency of Active Search** [[slides]](https://christopher-huckfeldt.github.io/files/MEoAS_slides.pdf) _Draft available upon request_<br/>  
+<br/>**The Marginal Efficiency of Active Search** [[slides]](https://christopher-huckfeldt.github.io/files/MEoAS_slides.pdf) _Under revision with Seb Graves, see old version [here](https://christopher-huckfeldt.github.io/files/MEoAS.pdf)_<br/>  
 > During recessions, a greater fraction of non-employed workers who want work actively search for a job. Simultaneously, the job-finding probabilities of such non-employed active searchers converge to those of the non-employed who want a job but are not engaged in any form of active search. I document these findings and show that they are symptomatic of a form of "crowding-out" of active search that has thus far gone unrecognized in the literature. I estimate a declining marginal efficiency of active search, and I establish that active search plays a less important role for finding a job during a recession.
 
  
