@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 
-## Working Papers and Works-in-progress
+## Working Papers
 
 <br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[pdf]](https://christopher-huckfeldt.github.io/files/GHS2024.pdf) [[slides]](https://christopher-huckfeldt.github.io/files/GHS2024_slides.pdf) [[data]](https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows) (See also [NBER WP31770](https://www.nber.org/papers/w31770))<br/>
 Latest draft: October 2024 <br/>
@@ -18,7 +18,7 @@ Revise and resubmit, _Review of Economic Studies_ <br/>
 
  
 
-## Publications and Accepted
+## Publications
 
 <br/>**Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics** (with Mark Gertler and Antonella Trigari) [[pdf]](https://christopher-huckfeldt.github.io/files/GHT2025.pdf) See also [NBER WP30134](https://www.nber.org/papers/w30134), and [non-technical summary](https://www.nber.org/digest/202210/temporary-layoffs-and-dynamics-cyclical-unemployment) in the NBER Digest.<br/>
 Latest draft: April 2025 <br/>
