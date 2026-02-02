@@ -8,9 +8,9 @@ author_profile: true
 
 ## Working Papers
 
-<br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[pdf]](https://christopher-huckfeldt.github.io/files/GHS2024.pdf) [[data]](https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows) (See also [NBER WP31770](https://www.nber.org/papers/w31770))<br/>
-Latest draft: October 2024 <br/>
-Revise and resubmit, _Review of Economic Studies_ <br/>
+<br/>**The Labor Demand and Labor Supply Channels of Monetary Policy** (with Sebastian Graves and Eric T. Swanson) [[pdf]](https://christopher-huckfeldt.github.io/files/GHS2026.pdf) [[data]](https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows) (See also [NBER WP31770](https://www.nber.org/papers/w31770))<br/>
+Latest draft: February 2026 <span style="color: crimson;">(recently updated)</span> <br/>
+Revise and resubmit (resubmitted), _Review of Economic Studies_ <br/>
 > Monetary policy is conventionally understood to influence labor demand, with little effect on labor supply. We estimate the response of labor market flows to high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches and find evidence that, in contrast to the consensus view, a contractionary monetary policy shock leads to a significant increase in labor supply: workers reduce the rate at which they quit jobs to non-employment, and non-employed individuals increase their job-seeking behavior. These effects are quantitatively important: holding supply-driven labor market flows constant, the decline in employment from a contractionary monetary policy shock would be twice as large. To interpret our findings, we estimate a heterogeneous agent model with frictional labor markets and an active labor supply margin. The model rationalizes existing estimates of small labor supply responses to idiosyncratic transfers with our new evidence of a large labor supply response to an aggregate shock.
 
 <br/>**The Marginal Efficiency of Active Search** [[slides]](https://christopher-huckfeldt.github.io/files/MEoAS_slides.pdf) (_Under revision with Seb Graves, see prior version [here](https://christopher-huckfeldt.github.io/files/MEoAS.pdf)._)<br/>  
