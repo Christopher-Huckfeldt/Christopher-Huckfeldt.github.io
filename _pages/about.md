@@ -9,7 +9,7 @@ redirect_from:
 ---
 ---
 
-I am an economist at the Federal Reserve Board, in the [Global Modeling Studies](https://www.federalreserve.gov/econres/ifgms-staff.htm) section of the Division of International Finance. Prior to coming to the Board, I was an assistant professor in the Department of Economics at Cornell University.
+I am a Principal Economist at the Federal Reserve Board, in the [Global Modeling Studies](https://www.federalreserve.gov/econres/ifgms-staff.htm) section of the Division of International Finance. Prior to joining the Board, I was an assistant professor in the Department of Economics at Cornell University. I received my Ph.D. in economics from New York University, under the supervision of Gianluca Violante and Mark Gertler, and my B.A. from Princeton University.
 
 My research interests are in macroeconomics and labor economics. My work has been published in the *American Economic Review* and the *Review of Economic Studies*.  
 
