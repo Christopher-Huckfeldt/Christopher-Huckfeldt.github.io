@@ -1,2 +1,15 @@
+# Jekyll build output & cache
 _site/
+.jekyll-cache/
+.jekyll-metadata
 
+# Local Ruby/Bundler state
+Gemfile.lock
+.bundle/
+vendor/bundle/
+
+# macOS & editor cruft
+.DS_Store
+*.swp
+*.swo
+*~
