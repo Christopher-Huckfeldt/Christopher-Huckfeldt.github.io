@@ -12,8 +12,8 @@
       --sans:-apple-system,"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     }
     *{box-sizing:border-box;}
-    html,body{margin:0;}
-    body{background:var(--bg); color:var(--text); font-family:var(--sans); font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased;}
+    html{margin:0; font-size:17px;}
+    body{margin:0; background:var(--bg); color:var(--text); font-family:var(--sans); font-size:1rem; line-height:1.55; -webkit-font-smoothing:antialiased;}
     a{color:var(--link); text-decoration:none;}
     a:hover{color:var(--link-hover);}
 
@@ -43,7 +43,7 @@
 
     /* Home profile header (single column) */
     .profile-head{display:flex; gap:0.9rem; align-items:center; margin:0.2rem 0 1.3rem;}
-    .profile-head .avatar{width:3.8rem; height:3.8rem; border-radius:50%; object-fit:cover; flex:0 0 auto;}
+    .profile-head .avatar{width:5.2rem; height:5.2rem; border-radius:50%; object-fit:cover; flex:0 0 auto;}
     .profile-head .p-name{font-size:1.3rem; font-weight:700; color:var(--head); line-height:1.15; margin:0 0 0.12rem; letter-spacing:-0.01em;}
     .profile-head .p-meta{font-size:0.88rem; color:var(--muted); line-height:1.45;}
     .profile-head .p-meta a{color:var(--nav);}
