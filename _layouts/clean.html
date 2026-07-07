@@ -41,13 +41,17 @@
     .prose hr{display:none;}
     .prose .disclaimer{font-size:0.82rem; color:var(--muted);}
 
-    /* Home profile header (single column) */
-    .profile-head{display:flex; gap:0.9rem; align-items:center; margin:0.2rem 0 1.3rem;}
-    .profile-head .avatar{width:5.2rem; height:5.2rem; border-radius:50%; object-fit:cover; flex:0 0 auto;}
-    .profile-head .p-name{font-size:1.3rem; font-weight:700; color:var(--head); line-height:1.15; margin:0 0 0.12rem; letter-spacing:-0.01em;}
-    .profile-head .p-meta{font-size:0.88rem; color:var(--muted); line-height:1.45;}
-    .profile-head .p-meta a{color:var(--nav);}
-    .profile-head .p-meta a:hover{color:var(--link-hover);}
+    /* Home profile header */
+    .profile-head{display:flex; gap:1.6rem; align-items:center; margin:0.3rem 0 1.7rem;}
+    .profile-head .avatar{width:9.5rem; height:9.5rem; border-radius:50%; object-fit:cover; flex:0 0 auto;}
+    .profile-head .p-name{font-size:1.5rem; font-weight:700; color:var(--head); line-height:1.1; margin:0 0 0.4rem; letter-spacing:-0.01em;}
+    .profile-head .p-line{font-size:0.95rem; color:var(--muted); line-height:1.55;}
+    .profile-head .p-line a{color:var(--nav);}
+    .profile-head .p-line a:hover{color:var(--link-hover);}
+    @media (max-width:520px){
+      .profile-head{gap:1.1rem;}
+      .profile-head .avatar{width:7rem; height:7rem;}
+    }
   </style>
 </head>
 <body>
@@ -68,7 +72,10 @@
       <img class="avatar" src="{{ '/images/chris-avatar.jpg' | relative_url }}" alt="{{ site.author.name }}">
       <div class="profile-id">
         <div class="p-name">{{ site.author.name }}</div>
-        <div class="p-meta">{% if site.author.bio %}{{ site.author.bio }}{% endif %}{% if site.author.location %} &middot; {{ site.author.location }}{% endif %}{% if site.author.googlescholar %} &middot; <a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}{% if site.author.twitter %} &middot; <a href="https://twitter.com/{{ site.author.twitter | remove: '@' }}">{{ site.author.twitter }}</a>{% endif %}</div>
+        {% if site.author.bio %}<div class="p-line">{{ site.author.bio }}</div>{% endif %}
+        {% if site.author.location %}<div class="p-line">{{ site.author.location }}</div>{% endif %}
+        {% if site.author.googlescholar %}<div class="p-line"><a href="{{ site.author.googlescholar }}">Google Scholar</a></div>{% endif %}
+        {% if site.author.twitter %}<div class="p-line"><a href="https://twitter.com/{{ site.author.twitter | remove: '@' }}">{{ site.author.twitter }}</a></div>{% endif %}
       </div>
     </header>
     <div class="prose">{{ content }}</div>
