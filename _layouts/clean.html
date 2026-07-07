@@ -3,8 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.author.name | default: 'Christopher Huckfeldt' }}</title>
-  {% if page.description %}<meta name="description" content="{{ page.description | strip_html | truncate: 160 }}">{% endif %}
+  <title>{% if page.title and page.title != site.author.name %}{{ page.title }} · {% endif %}{{ site.author.name | default: 'Christopher Huckfeldt' }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | truncate: 200 }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/images/favicon-180.png' | relative_url }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="theme-color" content="#3b3e41">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.author.name }}">
+  <meta property="og:title" content="{% if page.title and page.title != site.author.name %}{{ page.title }} · {% endif %}{{ site.author.name }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | strip_html | truncate: 200 }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/images/chris-avatar.jpg' | absolute_url }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:description" content="{{ page.description | default: site.description | strip_html | truncate: 200 }}">
+  <meta name="twitter:image" content="{{ '/images/chris-avatar.jpg' | absolute_url }}">
   <style>
     :root{
       --bg:#ffffff; --text:#494e52; --muted:#767c81; --head:#3b3e41;
@@ -77,6 +93,7 @@
         {% if site.author.bio %}<div class="p-line">{{ site.author.bio }}</div>{% endif %}
         {% if site.author.location %}<div class="p-line">{{ site.author.location }}</div>{% endif %}
         {% if site.author.googlescholar %}<div class="p-line"><a href="{{ site.author.googlescholar }}">Google Scholar</a></div>{% endif %}
+        <div class="p-line"><a href="{{ '/files/ChristopherHuckfeldtCV.pdf' | relative_url }}">Curriculum Vitae</a></div>
       </div>
     </header>
     <div class="prose">{{ content }}</div>
