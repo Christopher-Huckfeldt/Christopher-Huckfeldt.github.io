@@ -24,7 +24,7 @@
     .masthead .container{display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:0.4rem 1rem; padding-top:0.8rem; padding-bottom:0.8rem;}
     .brand{font-size:1.05rem; font-weight:700; color:var(--head);}
     .brand:hover{color:var(--head);}
-    .nav{display:flex; gap:1.25rem; font-size:0.92rem;}
+    .nav{display:flex; flex-wrap:wrap; gap:0.35rem 1.25rem; font-size:0.92rem;}
     .nav a{color:var(--nav);}
     .nav a:hover{color:var(--link-hover);}
     .nav a.active{color:var(--head); font-weight:600;}
@@ -34,6 +34,7 @@
     .page-title{font-size:1.7rem; font-weight:700; color:var(--head); margin:0.2rem 0 1.1rem; letter-spacing:-0.01em; line-height:1.15;}
 
     /* Prose (about, contact, cv) */
+    .prose{overflow-wrap:break-word;}
     .prose p{max-width:44rem; margin:0 0 1rem;}
     .prose a{color:var(--link);}
     .prose em{font-style:italic;}
@@ -44,14 +45,14 @@
     /* Home profile header */
     .profile-head{display:flex; gap:1.8rem; align-items:flex-start; margin:0.4rem 0 1.9rem;}
     .profile-head .avatar{width:11rem; aspect-ratio:3/4; height:auto; object-fit:cover; border-radius:14px; flex:0 0 auto; display:block;}
-    .profile-head .profile-id{padding-top:0.2rem;}
+    .profile-head .profile-id{padding-top:0.2rem; min-width:0;}
     .profile-head .p-name{font-size:1.7rem; font-weight:700; color:var(--head); line-height:1.1; margin:0 0 0.5rem; letter-spacing:-0.01em;}
     .profile-head .p-line{font-size:0.98rem; color:var(--muted); line-height:1.62;}
     .profile-head .p-line a{color:var(--link);}
     .profile-head .p-line a:hover{color:var(--link-hover); text-decoration:underline;}
     @media (max-width:560px){
-      .profile-head{gap:1.1rem;}
-      .profile-head .avatar{width:8rem;}
+      .profile-head{flex-direction:column; align-items:flex-start; gap:1rem;}
+      .profile-head .avatar{width:9rem;}
     }
   </style>
 </head>
