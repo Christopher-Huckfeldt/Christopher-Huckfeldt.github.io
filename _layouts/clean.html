@@ -43,12 +43,12 @@
 
     /* Home profile header */
     .profile-head{display:flex; gap:1.8rem; align-items:flex-start; margin:0.4rem 0 1.9rem;}
-    .profile-head .avatar{width:11rem; aspect-ratio:3/4; height:auto; object-fit:cover; border-radius:3px; flex:0 0 auto; display:block;}
+    .profile-head .avatar{width:11rem; aspect-ratio:3/4; height:auto; object-fit:cover; border-radius:14px; flex:0 0 auto; display:block;}
     .profile-head .profile-id{padding-top:0.2rem;}
     .profile-head .p-name{font-size:1.7rem; font-weight:700; color:var(--head); line-height:1.1; margin:0 0 0.5rem; letter-spacing:-0.01em;}
     .profile-head .p-line{font-size:0.98rem; color:var(--muted); line-height:1.62;}
-    .profile-head .p-line a{color:var(--nav);}
-    .profile-head .p-line a:hover{color:var(--link-hover);}
+    .profile-head .p-line a{color:var(--link);}
+    .profile-head .p-line a:hover{color:var(--link-hover); text-decoration:underline;}
     @media (max-width:560px){
       .profile-head{gap:1.1rem;}
       .profile-head .avatar{width:8rem;}
@@ -76,7 +76,6 @@
         {% if site.author.bio %}<div class="p-line">{{ site.author.bio }}</div>{% endif %}
         {% if site.author.location %}<div class="p-line">{{ site.author.location }}</div>{% endif %}
         {% if site.author.googlescholar %}<div class="p-line"><a href="{{ site.author.googlescholar }}">Google Scholar</a></div>{% endif %}
-        {% if site.author.twitter %}<div class="p-line"><a href="https://twitter.com/{{ site.author.twitter | remove: '@' }}">{{ site.author.twitter }}</a></div>{% endif %}
       </div>
     </header>
     <div class="prose">{{ content }}</div>
