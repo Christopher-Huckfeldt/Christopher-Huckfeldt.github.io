@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: clean
 title: "Contact"
 permalink: /contact/
-author_profile: true
----
+author_profile: false
+prose: true
 ---
 
 **Mailing address**  

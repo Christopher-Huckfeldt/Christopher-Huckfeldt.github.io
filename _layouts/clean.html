@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.author.name | default: 'Christopher Huckfeldt' }}</title>
+  {% if page.description %}<meta name="description" content="{{ page.description | strip_html | truncate: 160 }}">{% endif %}
+  <style>
+    :root{
+      --bg:#ffffff; --text:#494e52; --muted:#767c81; --head:#3b3e41;
+      --link:#52adc8; --link-hover:#3f8ba0; --rule:#e9ebec; --nav:#7a8288;
+      --sans:-apple-system,"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    }
+    *{box-sizing:border-box;}
+    html,body{margin:0;}
+    body{background:var(--bg); color:var(--text); font-family:var(--sans); font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased;}
+    a{color:var(--link); text-decoration:none;}
+    a:hover{color:var(--link-hover);}
+
+    .container{max-width:60rem; margin:0 auto; padding-left:1.5rem; padding-right:1.5rem;}
+
+    /* Masthead */
+    .masthead{border-bottom:1px solid var(--rule);}
+    .masthead .container{display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:0.4rem 1rem; padding-top:0.8rem; padding-bottom:0.8rem;}
+    .brand{font-size:1.05rem; font-weight:700; color:var(--head);}
+    .brand:hover{color:var(--head);}
+    .nav{display:flex; gap:1.25rem; font-size:0.92rem;}
+    .nav a{color:var(--nav);}
+    .nav a:hover{color:var(--link-hover);}
+    .nav a.active{color:var(--head); font-weight:600;}
+
+    /* Content frame */
+    main.container{padding-top:1.6rem; padding-bottom:4rem;}
+    .page-title{font-size:1.7rem; font-weight:700; color:var(--head); margin:0.2rem 0 1.1rem; letter-spacing:-0.01em; line-height:1.15;}
+
+    /* Prose (about, contact, cv) */
+    .prose p{max-width:44rem; margin:0 0 1rem;}
+    .prose a{color:var(--link);}
+    .prose em{font-style:italic;}
+    .prose strong{font-weight:700; color:var(--head);}
+    .prose hr{display:none;}
+    .prose .disclaimer{font-size:0.82rem; color:var(--muted);}
+
+    /* Home two-column */
+    .with-sidebar{display:flex; gap:2.4rem; align-items:flex-start;}
+    .sidebar{flex:0 0 12rem;}
+    .avatar{width:9rem; height:9rem; border-radius:50%; object-fit:cover; display:block; margin-bottom:0.9rem;}
+    .side-name{font-size:1.1rem; font-weight:700; color:var(--head); margin:0 0 0.15rem;}
+    .side-bio{font-size:0.9rem; margin:0 0 0.7rem;}
+    .side-links{list-style:none; padding:0; margin:0; font-size:0.9rem;}
+    .side-links li{margin:0.32rem 0; color:var(--muted); display:flex; align-items:center; gap:0.5rem;}
+    .side-links a{color:var(--nav);}
+    .side-links a:hover{color:var(--link-hover);}
+    .ic{width:1rem; text-align:center; color:var(--muted); font-style:normal;}
+    .side-content{flex:1 1 auto; min-width:0;}
+
+    .site-footer{border-top:1px solid var(--rule); margin-top:2rem;}
+    .site-footer .container{padding-top:1.1rem; padding-bottom:1.6rem; font-size:0.8rem; color:var(--muted);}
+
+    @media (max-width:600px){
+      .with-sidebar{flex-direction:column; gap:1.4rem;}
+      .sidebar{flex-basis:auto;}
+    }
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="container">
+      <a class="brand" href="{{ '/' | relative_url }}">{{ site.author.name | default: 'Christopher Huckfeldt' }}</a>
+      <nav class="nav">
+        {% for link in site.data.navigation.main %}
+        <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} class="active"{% endif %}>{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {% if page.author_profile %}
+    <div class="with-sidebar">
+      <aside class="sidebar">
+        <img class="avatar" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+        <p class="side-name">{{ site.author.name }}</p>
+        {% if site.author.bio %}<p class="side-bio">{{ site.author.bio }}</p>{% endif %}
+        <ul class="side-links">
+          {% if site.author.location %}<li><i class="ic">&#128205;</i> {{ site.author.location }}</li>{% endif %}
+          {% if site.author.googlescholar %}<li><i class="ic">&#127891;</i> <a href="{{ site.author.googlescholar }}">Google Scholar</a></li>{% endif %}
+          {% if site.author.twitter %}<li><i class="ic">&#128038;</i> <a href="https://twitter.com/{{ site.author.twitter | remove: '@' }}">{{ site.author.twitter }}</a></li>{% endif %}
+        </ul>
+      </aside>
+      <div class="side-content">
+        {% if page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+        <div class="prose">{{ content }}</div>
+      </div>
+    </div>
+    {% else %}
+      {% if page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+      {% if page.prose %}<div class="prose">{{ content }}</div>{% else %}{{ content }}{% endif %}
+    {% endif %}
+  </main>
+</body>
+</html>
