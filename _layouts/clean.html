@@ -90,10 +90,10 @@
       <img class="avatar" src="{{ '/images/chris-avatar.jpg' | relative_url }}" alt="{{ site.author.name }}">
       <div class="profile-id">
         <div class="p-name">{{ site.author.name }}</div>
-        {% if site.author.bio %}<div class="p-line">{{ site.author.bio }}</div>{% endif %}
+        {% if site.author.bio %}{% assign biolines = site.author.bio | split: ", " %}{% for bl in biolines %}<div class="p-line">{{ bl }}</div>{% endfor %}{% endif %}
         {% if site.author.location %}<div class="p-line">{{ site.author.location }}</div>{% endif %}
-        {% if site.author.googlescholar %}<div class="p-line"><a href="{{ site.author.googlescholar }}">Google Scholar</a></div>{% endif %}
         <div class="p-line"><a href="{{ '/files/ChristopherHuckfeldtCV.pdf' | relative_url }}">Curriculum Vitae</a></div>
+        {% if site.author.googlescholar %}<div class="p-line"><a href="{{ site.author.googlescholar }}">Google Scholar</a></div>{% endif %}
       </div>
     </header>
     <div class="prose">{{ content }}</div>

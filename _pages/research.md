@@ -47,7 +47,8 @@ author_profile: false
 
 <article class="entry">
 <div class="title">Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics</div>
-<p class="meta">with Mark Gertler and Antonella Trigari &nbsp;&middot;&nbsp; <span class="status">American Economic Review, 2026</span></p>
+<p class="meta">with Mark Gertler and Antonella Trigari</p>
+<p class="meta"><span class="status">American Economic Review</span>, 2026</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GHT2026.pdf">pdf</a>
 <a href="https://christopher-huckfeldt.github.io/files/GHT2026_appendix.pdf">appendix</a>
@@ -63,7 +64,7 @@ author_profile: false
 
 <article class="entry">
 <div class="title">Understanding the Scarring Effect of Recessions</div>
-<p class="meta"><span class="status">American Economic Review, 2022</span></p>
+<p class="meta"><span class="status">American Economic Review</span>, 2022</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/Huckfeldt2022.pdf">pdf</a>
 <a href="https://christopher-huckfeldt.github.io/files/Huckfeldt2022_appendix.pdf">appendix</a>
@@ -78,7 +79,8 @@ author_profile: false
 
 <article class="entry">
 <div class="title">Unemployment Fluctuations, Match Quality, and the Wage Cyclicality of New Hires</div>
-<p class="meta">with Mark Gertler and Antonella Trigari &nbsp;&middot;&nbsp; <span class="status">Review of Economic Studies, 2020</span></p>
+<p class="meta">with Mark Gertler and Antonella Trigari</p>
+<p class="meta"><span class="status">Review of Economic Studies</span>, 2020</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GHT2020.pdf">pdf</a>
 <a href="https://christopher-huckfeldt.github.io/files/GHT2020_appendix.pdf">appendix</a>
@@ -97,7 +99,8 @@ author_profile: false
 
 <article class="entry">
 <div class="title">The Labor Demand and Labor Supply Channels of Monetary Policy</div>
-<p class="meta">with Sebastian Graves and Eric T. Swanson &nbsp;&middot;&nbsp; <span class="status">Forthcoming, Review of Economic Studies</span> &nbsp;&middot;&nbsp; latest draft June 2026</p>
+<p class="meta">with Sebastian Graves and Eric T. Swanson</p>
+<p class="meta"><span class="status">Forthcoming, Review of Economic Studies</span> &nbsp;&middot;&nbsp; latest draft June 2026</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GHS2026.pdf">pdf</a>
 <a href="https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows">data</a>
@@ -111,7 +114,8 @@ author_profile: false
 
 <article class="entry">
 <div class="title">The Active Search Premium</div>
-<p class="meta">with Sebastian Graves &nbsp;&middot;&nbsp; <span class="status">under revision &mdash; email for latest draft</span></p>
+<p class="meta">with Sebastian Graves</p>
+<p class="meta"><span class="status">under revision &mdash; email for latest draft</span></p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GH2026_slides_BSE.pdf">slides</a>
 <a href="https://christopher-huckfeldt.github.io/files/MEoAS.pdf">prior version</a>
