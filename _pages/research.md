@@ -46,6 +46,21 @@ author_profile: false
 <h2>Publications</h2>
 
 <article class="entry">
+<div class="title">The Labor Demand and Labor Supply Channels of Monetary Policy</div>
+<p class="meta">with Sebastian Graves and Eric T. Swanson</p>
+<p class="meta">Forthcoming, <span class="status">Review of Economic Studies</span> &nbsp;&middot;&nbsp; latest draft June 2026</p>
+<p class="links">
+<a href="https://christopher-huckfeldt.github.io/files/GHS2026.pdf">pdf</a>
+<a href="https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows">data</a>
+<a href="https://www.nber.org/papers/w31770">NBER wp</a>
+</p>
+<details class="abs">
+<summary><span class="caret"></span><span class="label-open">Abstract</span><span class="label-close">Hide abstract</span></summary>
+<p class="abstract">Monetary policy is typically understood to affect employment through labor demand, with the role of labor supply receiving less consideration. We estimate the response of labor market flows to high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches, and find that a contractionary monetary policy shock leads to a significant increase in labor supply: workers reduce the rate at which they quit jobs to nonemployment, and non-employed individuals increase their job-seeking behavior. These effects are quantitatively important: holding supply-driven labor market flows constant, the decline in employment from a contractionary monetary policy shock would be twice as large. To interpret our findings, we estimate a heterogeneous agent model with frictional labor markets and an active extensive margin of labor supply. The model rationalizes existing estimates of modest labor supply responses to idiosyncratic transfers with our new evidence of a large labor supply response to an aggregate shock.</p>
+</details>
+</article>
+
+<article class="entry">
 <div class="title">Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics</div>
 <p class="meta">with Mark Gertler and Antonella Trigari</p>
 <p class="meta"><span class="status">American Economic Review</span>, 2026</p>
@@ -96,21 +111,6 @@ author_profile: false
 
 <section class="section">
 <h2>Working Papers</h2>
-
-<article class="entry">
-<div class="title">The Labor Demand and Labor Supply Channels of Monetary Policy</div>
-<p class="meta">with Sebastian Graves and Eric T. Swanson</p>
-<p class="meta">Forthcoming, <span class="status">Review of Economic Studies</span> &nbsp;&middot;&nbsp; latest draft June 2026</p>
-<p class="links">
-<a href="https://christopher-huckfeldt.github.io/files/GHS2026.pdf">pdf</a>
-<a href="https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows">data</a>
-<a href="https://www.nber.org/papers/w31770">NBER wp</a>
-</p>
-<details class="abs">
-<summary><span class="caret"></span><span class="label-open">Abstract</span><span class="label-close">Hide abstract</span></summary>
-<p class="abstract">Monetary policy is typically understood to affect employment through labor demand, with the role of labor supply receiving less consideration. We estimate the response of labor market flows to high-frequency changes in interest rates around FOMC announcements and Fed Chair speeches, and find that a contractionary monetary policy shock leads to a significant increase in labor supply: workers reduce the rate at which they quit jobs to nonemployment, and non-employed individuals increase their job-seeking behavior. These effects are quantitatively important: holding supply-driven labor market flows constant, the decline in employment from a contractionary monetary policy shock would be twice as large. To interpret our findings, we estimate a heterogeneous agent model with frictional labor markets and an active extensive margin of labor supply. The model rationalizes existing estimates of modest labor supply responses to idiosyncratic transfers with our new evidence of a large labor supply response to an aggregate shock.</p>
-</details>
-</article>
 
 <article class="entry">
 <div class="title">The Active Search Premium</div>
