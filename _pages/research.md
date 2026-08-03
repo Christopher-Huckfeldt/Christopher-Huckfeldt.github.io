@@ -12,6 +12,8 @@ author_profile: false
 .rlist .entry { padding: 0.4rem 0; }
 .rlist .title { font-size: 0.95rem; font-weight: 700; color: #3b3e41; line-height: 1.3; }
 .rlist .meta { font-size: 0.9rem; color: #767c81; margin: 0.1rem 0 0; }
+.rlist .meta a { color: inherit; text-decoration: underline; text-decoration-color: #c9cdd1; text-underline-offset: 2px; }
+.rlist .meta a:hover { color: #52adc8; text-decoration-color: currentColor; }
 .rlist .meta .status { font-style: italic; }
 .rlist .links { font-size: 0.9rem; margin: 0.2rem 0 0; line-height: 1.55; }
 .rlist .links a::before { content: "["; color: #767c81; }
@@ -47,7 +49,7 @@ author_profile: false
 
 <article class="entry">
 <div class="title">The Labor Demand and Labor Supply Channels of Monetary Policy</div>
-<p class="meta">with Sebastian Graves and Eric T. Swanson</p>
+<p class="meta">with <a href="https://www.sebgraves.com/">Sebastian Graves</a> and <a href="https://www.socsci.uci.edu/~swanson2/">Eric T. Swanson</a></p>
 <p class="meta">Forthcoming, <span class="status">Review of Economic Studies</span> &nbsp;&middot;&nbsp; latest draft June 2026</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GHS2026.pdf">pdf</a>
@@ -62,7 +64,7 @@ author_profile: false
 
 <article class="entry">
 <div class="title">Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics</div>
-<p class="meta">with Mark Gertler and Antonella Trigari</p>
+<p class="meta">with <a href="https://wp.nyu.edu/markgertler/">Mark Gertler</a> and <a href="https://sites.google.com/view/antonellatrigari">Antonella Trigari</a></p>
 <p class="meta"><span class="status">American Economic Review</span>, 2026</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GHT2026.pdf">pdf</a>
@@ -94,7 +96,7 @@ author_profile: false
 
 <article class="entry">
 <div class="title">Unemployment Fluctuations, Match Quality, and the Wage Cyclicality of New Hires</div>
-<p class="meta">with Mark Gertler and Antonella Trigari</p>
+<p class="meta">with <a href="https://wp.nyu.edu/markgertler/">Mark Gertler</a> and <a href="https://sites.google.com/view/antonellatrigari">Antonella Trigari</a></p>
 <p class="meta"><span class="status">Review of Economic Studies</span>, 2020</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GHT2020.pdf">pdf</a>
@@ -114,7 +116,7 @@ author_profile: false
 
 <article class="entry">
 <div class="title">The Active Search Premium</div>
-<p class="meta">with Sebastian Graves</p>
+<p class="meta">with <a href="https://www.sebgraves.com/">Sebastian Graves</a></p>
 <p class="meta"><span class="status">under revision &mdash; email for latest draft</span></p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GH2026_slides_BSE.pdf">slides</a>
