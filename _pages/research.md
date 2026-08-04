@@ -55,6 +55,7 @@ author_profile: false
 <a href="https://christopher-huckfeldt.github.io/files/GHS2026.pdf">pdf</a>
 <a href="https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows">data</a>
 <a href="https://www.nber.org/papers/w31770">NBER wp</a>
+<a href="https://cepr.org/voxeu/columns/uncovering-labour-supply-channel-monetary-transmission">VoxEU column</a>
 </p>
 <details class="abs">
 <summary><span class="caret"></span><span class="label-open">Abstract</span><span class="label-close">Hide abstract</span></summary>
