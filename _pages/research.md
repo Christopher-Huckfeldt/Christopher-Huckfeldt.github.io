@@ -50,7 +50,8 @@ author_profile: false
 <article class="entry">
 <div class="title">The Labor Demand and Labor Supply Channels of Monetary Policy</div>
 <p class="meta">with <a href="https://www.sebgraves.com/">Sebastian Graves</a> and <a href="https://www.socsci.uci.edu/~swanson2/">Eric T. Swanson</a></p>
-<p class="meta">June 2026 &nbsp;&middot;&nbsp; Forthcoming, <span class="status">Review of Economic Studies</span></p>
+<p class="meta">Forthcoming, <span class="status">Review of Economic Studies</span></p>
+<p class="meta">June 2026</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GHS2026.pdf">pdf</a>
 <a href="https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows">data</a>
