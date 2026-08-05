@@ -50,7 +50,7 @@ author_profile: false
 <article class="entry">
 <div class="title">The Labor Demand and Labor Supply Channels of Monetary Policy</div>
 <p class="meta">with <a href="https://www.sebgraves.com/">Sebastian Graves</a> and <a href="https://www.socsci.uci.edu/~swanson2/">Eric T. Swanson</a></p>
-<p class="meta">Forthcoming, <span class="status">Review of Economic Studies</span> &nbsp;&middot;&nbsp; latest draft June 2026</p>
+<p class="meta">Forthcoming, <span class="status">Review of Economic Studies</span> &nbsp;&middot;&nbsp; June 2026</p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GHS2026.pdf">pdf</a>
 <a href="https://github.com/Christopher-Huckfeldt/GHS_Labor_Flows">data</a>
@@ -118,10 +118,9 @@ author_profile: false
 <article class="entry">
 <div class="title">The Active Search Premium</div>
 <p class="meta">with <a href="https://www.sebgraves.com/">Sebastian Graves</a></p>
-<p class="meta">Draft, August 2026</p>
+<p class="meta">August 2026 &nbsp;&middot;&nbsp; formerly <span class="status">&ldquo;The Marginal Efficiency of Active Search&rdquo;</span></p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GravesHuckfeldt2026.pdf">pdf</a>
-<span class="aside">formerly &ldquo;The Marginal Efficiency of Active Search&rdquo;</span>
 </p>
 <details class="abs">
 <summary><span class="caret"></span><span class="label-open">Abstract</span><span class="label-close">Hide abstract</span></summary>
