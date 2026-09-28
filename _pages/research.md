@@ -130,12 +130,14 @@ author_profile: false
 </article>
 </section>
 
-<!-- Works in Progress — hidden for now; uncomment when there are entries to list.
 <section class="section">
-<h2>Works in Progress</h2>
-<p class="placeholder">Early-stage projects will appear here.</p>
+<h2>Work in Progress</h2>
+
+<article class="entry">
+<div class="title">Labor Supply and Macroeconomic Policy with HANK &amp; SAM</div>
+<p class="meta">with <a href="https://www.sebgraves.com/">Sebastian Graves</a></p>
+</article>
 </section>
--->
 
 
 </div>
