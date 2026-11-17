@@ -120,13 +120,13 @@ author_profile: false
 <article class="entry">
 <div class="title">The Active Search Premium</div>
 <p class="meta">with <a href="https://www.sebgraves.com/">Sebastian Graves</a></p>
-<p class="meta">August 2026 &nbsp;&middot;&nbsp; formerly <span class="status">&ldquo;The Marginal Efficiency of Active Search&rdquo;</span></p>
+<p class="meta">November 2026 &nbsp;&middot;&nbsp; formerly <span class="status">&ldquo;The Marginal Efficiency of Active Search&rdquo;</span></p>
 <p class="links">
 <a href="https://christopher-huckfeldt.github.io/files/GravesHuckfeldt2026.pdf">pdf</a>
 </p>
 <details class="abs">
 <summary><span class="caret"></span><span class="label-open">Abstract</span><span class="label-close">Hide abstract</span></summary>
-<p class="abstract">We document that the job-finding premium for non-employed active searchers relative to comparable nonparticipants is surprisingly small, strongly procyclical, and declining in the aggregate quantity of active search. This pattern does not support the standard assumption of perfect substitutability between active and passive search; it instead identifies a crowding-out of active search&mdash;the relative return to search effort falls as aggregate search effort rises. We develop a matching framework in which the elasticity of substitution is estimated from the premium&rsquo;s response to the extensive and intensive margins of active search. At the estimated elasticity, aggregate search effort responds less to an economy-wide change in unemployment insurance benefits than micro-data estimates would imply. We formulate sufficient statistics for the extent of crowding-out, characterize its implications for unemployment insurance within a standard Baily&ndash;Chetty formula, and quantify the mechanism in an equilibrium business-cycle model.</p>
+<p class="abstract">We document that the job-finding premium of non-employed active searchers over comparable nonparticipants is surprisingly small, falls in recessions (approaching zero in the Great Recession), and declines as aggregate search effort rises. This pattern contradicts the standard assumption of a constant relative return to active search, and instead points to crowding-out of active search. We relax the assumption that active and passive search are perfect substitutes in matching, instead estimating an elasticity of substitution of only one-fifth. Incorporating this crowding-out into a Baily&ndash;Chetty formula implies that the disincentive effect of unemployment insurance is weakest in recessions. We embed the estimated search aggregator in an equilibrium business cycle model and develop a sufficient statistics representation to show that aggregate active search effort responds much less to an economy-wide change in unemployment insurance than individual-level estimates would suggest. In equilibrium this dampens the unemployment response to benefit expansions by roughly one-third.</p>
 </details>
 </article>
 </section>
